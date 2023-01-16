@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TareaPreferencias</string>
+    <string name="channel_name">Notificación</string>
+    <string name="chanel_description">Nueva notificación</string>
+</resources>
